@@ -31,7 +31,6 @@ int player_score = 0;
 int player_card_quantity = 0;
 int player_cards [5];
 
-
 int computer_score = 0;
 int computer_cards_quantity = 0;
 int computer_cards [5];
@@ -49,7 +48,6 @@ void player_move();
 void computer_move();
 void print_cards_visually();
 void print_cards_numerically();
-
 
 
 
