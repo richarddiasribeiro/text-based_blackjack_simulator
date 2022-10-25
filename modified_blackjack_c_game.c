@@ -54,10 +54,6 @@ void print_cards_numerically();
 
 int main(int argc, char *argv[]) {
 	
-	printf(" ________________________________________________________________________\n");
-	printf("|             Modified Blackjack C Game, by Richard D. Ribeiro           |\n");
-	printf("|________________________________________________________________________|\n\n");
-	
 	char main_menu_entered_option = 'O';
 	
 		printf("%c%c%c%c%c%c Main menu %c%c%c%c%c\n", 201, 205, 205, 205, 205, 205, 205, 205, 205, 205, 187);
