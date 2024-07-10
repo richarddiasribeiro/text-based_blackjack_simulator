@@ -40,16 +40,12 @@ int next_player_card_position = 0;
 int next_computer_card_position = 0;
 
 
-
-
 void shuffle();
 void get_new_cards(int  quantity, char player_or_computer);
 void player_move();
 void computer_move();
 void print_cards_visually();
 void print_cards_numerically();
-
-
 
 
 int main(int argc, char *argv[]) {
